@@ -1,0 +1,8 @@
+{
+  "name": "amuni-a-spasso-con-turiddu",
+  "app_id": "74f8b092",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
